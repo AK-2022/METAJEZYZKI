@@ -1,0 +1,27 @@
+body{
+	font-family: helvetica;
+	background-color: #ffe6cc;
+}
+.wiersz_tytul{
+	text-align: center;
+}	
+.wiersz_tekst{
+	position: absolute;
+	left: 38%;
+}
+pre{
+	font-family: helvetica;
+}
+.wiersz_tytul2{
+	margin-top: 500px;
+	text-align: center;
+}	
+h2:hover {
+	background-color: yellow;
+}
+a:active {
+  background-color: yellow;
+}
+a:visited {
+  color: green;
+}
